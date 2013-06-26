@@ -15,7 +15,7 @@
 import 'dart:html';
 import 'dart:json' as JSON;
 
-import 'package:dart_OXO_client/client_library.dart';
+import 'package:dart_oxo_client/client_library.dart';
 
 void main() {
   // Drawing logo
